@@ -97,7 +97,17 @@ The analysis provides insights into:
 - Overall batting and bowling performance patterns
 
 ---
+## 📊 Power BI Dashboard
 
+An interactive Power BI dashboard was created to visualize IPL cricket performance data.
+
+### Dashboard Insights
+- Player batting performance
+- Team-wise total runs
+- Bowling performance and wickets
+- Interactive data visualizations
+
+**Tool Used:** Microsoft Power BI
 ## 🏁 Conclusion
 
 This project demonstrates how cricket data can be explored, analyzed, and visualized to generate meaningful insights into IPL player and team performance.
